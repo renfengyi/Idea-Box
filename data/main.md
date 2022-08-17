@@ -2,9 +2,9 @@
 about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下面正文中已有内容准确填写。有问题随时在 Issue 中发起讨论。"
 ---
 
-|行业|场景|想法/方案/产品|
+|行业|场景|想法/方案/产品| 更新时间 |
 |----------------------|--------------------------------------|-------------------------------------------------------------------------|----| 
-| 教育                   | 1v1 教学                               | Agora Flat 开源教室｜https://flat.whiteboard.agora.io/                       |    | 
+| 教育                   | 1v1 教学                               | Agora Flat 开源教室｜https://flat.whiteboard.agora.io/                       | 20220701   | 
 | 教育                   | 1v1 教学                               | 灵动课堂｜https://www.agora.io/cn/agora-flexible-classroom                   |    | 
 | 教育                   | 1对多小班课                               | Agora Flat 开源教室｜https://flat.whiteboard.agora.io/                       |    | 
 | 教育                   | 1对多小班课                               | 灵动课堂｜https://www.agora.io/cn/agora-flexible-classroom                   |    | 
@@ -158,7 +158,8 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 医疗                   | 医美直播                                 |                                                                         |    | 
 | 企业协作                 | 综合协同办公（Enterprise Collaboration）     |                                                                         |    | 
 | 企业协作                 | 视频会议（B2B Video Platform）             | Cmeeting｜https://www.agora.io/cn/marketplace/cmeeting                   |    | 
-| 企业协作                 | 远程培训（Enterprise Training）            |                                                                         |    | 
+| 企业协作                 | 远程培训（Enterprise Training）            | POPSTAGE —— Create your dream courses｜https://popstage.com/             | 20220812 | 
+| 企业协作                 | 远程培训（Enterprise Training）            | BeeArt 蜜罐｜https://www.beeart.com/academy             | 20220812 | 
 | 企业协作                 | 远程招聘（Online Interview）               |                                                                         |    | 
 | 企业协作                 | 远程专家指导                               |                                                                         |    | 
 | 企业协作                 | 远程监工/交付                              |                                                                         |    | 
@@ -212,6 +213,7 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 派对岛｜https://paiduidao.com/                                              |    | 
 | 虚拟活动（Virtual Events） | 歌声合成引擎                               | ACE Studio｜https://ace-studio.timedomain.tech                           |    | 
 | 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | 啫喱｜http://www.1dyd.com/                                                 |    | 
+| 虚拟活动（Virtual Events） | 元宇宙（Metaverse）                       | Spot｜https://www.spotvirtual.com/                                                 | 20220812 | 
 | 体育                   | 体育远程加油                               |                                                                         |    | 
 | 体育                   | Sports Talkshow（体育脱口秀）               |                                                                         |    | 
 | 体育                   | 云钓鱼                                  |                                                                         |    | 
@@ -230,4 +232,4 @@ about: "该 main.md 文件记录每个人 Pull Requset 的内容。请参考下�
 | 更多                   | 视频播放器                                | electron-player｜https://github.com/c10342/player                        |    | 
 | 更多                   | 视频播放器                                | SGPlayer｜https://github.com/libobjc/SGPlayer                            |    | 
 | 更多                   | Web3.0                               | Meson Network｜https://meson.network/                                    |    | 
-| 更多                   | 录音软件                                 | 开源项目 Audacity｜https://github.com/audacity/audacity                      |    | 
+| 更多                   | 录音软件                                 | 开源项目 Audacity｜https://github.com/audacity/audacity                      | 20220812 | 
